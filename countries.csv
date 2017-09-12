@@ -1,0 +1,207 @@
+'iso2c','iso3c','country','gdp_per_capita','life_expect','population','region','income','latitude_avg','longitude_avg'
+'AD','AND','Andorra',,,79316,'Europe & Central Asia','High income',42.5,1.6
+'AE','ARE','United Arab Emirates',61172.99479,77.02414634,8952542,'Middle East & North Africa','High income',24,54
+'AF','AFG','Afghanistan',1934.285634,59.67960976,29726803,'South Asia','Low income',33,65
+'AG','ATG','Antigua and Barbuda',20956.33642,75.62180488,89069,'Latin America & Caribbean','Upper middle income',17.05,-61.8
+'AL','ALB','Albania',10361.43322,77.44397561,2900247,'Europe & Central Asia','Upper middle income',41,20
+'AM','ARM','Armenia',7401.856398,74.45209756,2978339,'Europe & Central Asia','Lower middle income',40,45
+'AO','AGO','Angola',6758.27805,51.464,22685632,'Sub-Saharan Africa','Lower middle income',-12.5,18.5
+'AR','ARG','Argentina',,75.8162439,42095224,'Latin America & Caribbean','Upper middle income',-34,-64
+'AS','ASM','American Samoa',,,55227,'East Asia & Pacific','Upper middle income',-14.3333,-170
+'AT','AUT','Austria',45858.24684,80.93658537,8429991,'Europe & Central Asia','High income: OECD',47.3333,13.3333
+'AU','AUS','Australia',42596.29412,82.04634146,22728254,'East Asia & Pacific','High income: OECD',-27,133
+'AW','ABW','Aruba',36015.07046,75.2057561,102393,'Latin America & Caribbean','High income',12.5,-69.9667
+'AZ','AZE','Azerbaijan',16180.88715,70.62395122,9295784,'Europe & Central Asia','Upper middle income',40.5,47.5
+'BA','BIH','Bosnia and Herzegovina',9705.013979,76.12017073,3828419,'Europe & Central Asia','Upper middle income',44,18
+'BB','BRB','Barbados',15673.17331,75.17102439,281580,'Latin America & Caribbean','High income',13.1667,-59.5333
+'BD','BGD','Bangladesh',2764.781928,70.86026829,155257387,'South Asia','Low income',24,90
+'BE','BEL','Belgium',41930.66183,80.38536585,11128246,'Europe & Central Asia','High income: OECD',50.8333,4
+'BF','BFA','Burkina Faso',1547.649372,57.87931707,16590813,'Sub-Saharan Africa','Low income',13,-2
+'BG','BGR','Bulgaria',16097.83431,74.31463415,7305888,'Europe & Central Asia','Upper middle income',43,25
+'BH','BHR','Bahrain',40992.55678,76.40763415,1333577,'Middle East & North Africa','High income',26,50.55
+'BI','BDI','Burundi',730.0335656,55.78929268,10124572,'Sub-Saharan Africa','Low income',-3.5,30
+'BJ','BEN','Benin',1826.808935,59.12197561,10049792,'Sub-Saharan Africa','Low income',9.5,2.25
+'BM','BMU','Bermuda',53097.69629,81.67780488,64798,'North America','High income',32.3333,-64.75
+'BN','BRN','Brunei Darussalam',74195.02119,78.25258537,405512,'East Asia & Pacific','High income',4.5,114.6667
+'BO','BOL','Bolivia',5899.781303,67.44546341,10238762,'Latin America & Caribbean','Lower middle income',-17,-65
+'BR','BRA','Brazil',15246.26077,73.83958537,202401584,'Latin America & Caribbean','Upper middle income',-10,-55
+'BS','BHS',"'Bahamas, The'",23234.79222,74.91446341,372388,'Latin America & Caribbean','High income',24.25,-76
+'BT','BTN','Bhutan',7251.433192,68.72290244,743711,'South Asia','Lower middle income',27.5,90.5
+'BW','BWA','Botswana',14211.00753,64.22273171,2132822,'Sub-Saharan Africa','Upper middle income',-22,24
+'BY','BLR','Belarus',17218.3561,71.96585366,9464000,'Europe & Central Asia','Upper middle income',53,28
+'BZ','BLZ','Belize',8114.443709,69.90514634,336707,'Latin America & Caribbean','Lower middle income',17.25,-88.75
+'CA','CAN','Canada',42143.96878,81.56243902,34751476,'North America','High income: OECD',60,-95
+'CD','COD',"'Congo, Dem. Rep.'",652.3885874,57.85407317,70291160,'Sub-Saharan Africa','Low income',0,25
+'CF','CAF','Central African Republic',925.7149449,49.10529268,4619500,'Sub-Saharan Africa','Low income',7,21
+'CG','COG',"'Congo, Rep.'",5803.0888,60.92390244,4286188,'Sub-Saharan Africa','Lower middle income',-1,15
+'CH','CHE','Switzerland',57205.37219,82.69756098,7996861,'Europe & Central Asia','High income: OECD',47,8
+'CI','CIV','Cote d''Ivoire',2803.700937,50.86334146,21102641,'Sub-Saharan Africa','Lower middle income',8,-5
+'CL','CHL','Chile',21370.09931,80.89485366,17388437,'Latin America & Caribbean','Upper middle income',-30,-71
+'CM','CMR','Cameroon',2715.35411,54.5875122,21659488,'Sub-Saharan Africa','Lower middle income',6,12
+'CN','CHN','China',11219.92767,75.39292683,1350695000,'East Asia & Pacific','Upper middle income',35,105
+'CO','COL','Colombia',12058.4613,73.63078049,46881018,'Latin America & Caribbean','Upper middle income',4,-72
+'CR','CRI','Costa Rica',13839.46892,79.05353659,4654148,'Latin America & Caribbean','Upper middle income',10,-84
+'CU','CUB','Cuba',19820.97698,79.14160976,11342631,'Latin America & Caribbean','Upper middle income',21.5,-80
+'CY','CYP','Cyprus',31920.44547,79.76226829,1129303,'Europe & Central Asia','High income',35,33
+'CZ','CZE','Czech Republic',28727.90726,78.07560976,10510785,'Europe & Central Asia','High income: OECD',49.75,15.5
+'DE','DEU','Germany',43600.1134,80.89268293,80425823,'Europe & Central Asia','High income: OECD',51,9
+'DJ','DJI','Djibouti',2932.233342,61.29597561,853069,'Middle East & North Africa','Lower middle income',11.5,43
+'DK','DNK','Denmark',44246.33062,80.05121951,5591572,'Europe & Central Asia','High income: OECD',56,10
+'DM','DMA','Dominica',10206.27438,76.59756098,71685,'Latin America & Caribbean','Upper middle income',15.4167,-61.3333
+'DO','DOM','Dominican Republic',11740.05363,73.13531707,10155036,'Latin America & Caribbean','Upper middle income',19,-70.6667
+'DZ','DZA','Algeria',13452.55261,74.32409756,37439427,'Middle East & North Africa','Upper middle income',28,3
+'EC','ECU','Ecuador',10512.4367,75.433,15419493,'Latin America & Caribbean','Upper middle income',-2,-77.5
+'EE','EST','Estonia',25921.0286,76.32682927,1322696,'Europe & Central Asia','High income: OECD',59,26
+'EG','EGY',"'Egypt, Arab Rep.'",10252.52298,70.72914634,85660902,'Middle East & North Africa','Lower middle income',27,30
+'ER','ERI','Eritrea',1411.157638,62.64497561,4789568,'Sub-Saharan Africa','Low income',15,39
+'ES','ESP','Spain',32235.59592,82.42682927,46773055,'Europe & Central Asia','High income: OECD',40,-4
+'ET','ETH','Ethiopia',1256.682208,62.79353659,92191211,'Sub-Saharan Africa','Low income',8,38
+'FI','FIN','Finland',40437.59387,80.62682927,5413971,'Europe & Central Asia','High income: OECD',64,26
+'FJ','FJI','Fiji',7688.777866,69.74321951,874158,'East Asia & Pacific','Lower middle income',-18,175
+'FM','FSM',"'Micronesia, Fed. Sts.'",3491.347808,68.85070732,103516,'East Asia & Pacific','Lower middle income',6.9167,158.25
+'FR','FRA','France',37462.32503,81.96829268,65659790,'Europe & Central Asia','High income: OECD',46,2
+'GA','GAB','Gabon',17919.06448,63.28073171,1613489,'Sub-Saharan Africa','Upper middle income',-1,11.75
+'GB','GBR','United Kingdom',37569.31528,80.90487805,63700300,'Europe & Central Asia','High income: OECD',54,-2
+'GD','GRD','Grenada',11252.55682,73.00226829,105476,'Latin America & Caribbean','Upper middle income',12.1167,-61.6667
+'GE','GEO','Georgia',8026.50713,74.35270732,3825000,'Europe & Central Asia','Lower middle income',42,43.5
+'GH','GHA','Ghana',3726.643939,60.97702439,25544565,'Sub-Saharan Africa','Lower middle income',8,-2
+'GI','GIB','Gibraltar',,,31402,'Europe & Central Asia','High income',36.1833,-5.3667
+'GL','GRL','Greenland',,71.30926829,56810,'Europe & Central Asia','High income',72,-40
+'GM','GMB',"'Gambia, The'",1599.179616,59.77814634,1807108,'Sub-Saharan Africa','Low income',13.4667,-16.5667
+'GN','GIN','Guinea',1219.547152,57.63763415,11628767,'Sub-Saharan Africa','Low income',11,-10
+'GQ','GNQ','Equatorial Guinea',38416.16352,56.89026829,773729,'Sub-Saharan Africa','High income',2,10
+'GR','GRC','Greece',25980.08652,80.63414634,11045011,'Europe & Central Asia','High income: OECD',39,22
+'GT','GTM','Guatemala',6981.506844,71.24939024,15368759,'Latin America & Caribbean','Lower middle income',15.5,-90.25
+'GU','GUM','Guam',,78.6175122,162807,'East Asia & Pacific','High income',13.4667,144.7833
+'GW','GNB','Guinea-Bissau',1382.504336,54.5035122,1714620,'Sub-Saharan Africa','Low income',12,-15
+'GY','GUY','Guyana',6465.612628,66.21726829,758410,'Latin America & Caribbean','Lower middle income',5,-59
+'HK','HKG',"'Hong Kong SAR, China'",51274.06031,83.4804878,7154600,'East Asia & Pacific','High income',22.25,114.1667
+'HN','HND','Honduras',4632.095108,72.75502439,7736131,'Latin America & Caribbean','Lower middle income',15,-86.5
+'HR','HRV','Croatia',21016.01873,76.92439024,4267558,'Europe & Central Asia','High income',45.1667,15.5
+'HT','HTI','Haiti',1614.085821,62.03339024,10288828,'Latin America & Caribbean','Low income',19,-72.4167
+'HU','HUN','Hungary',22701.45022,75.06341463,9920362,'Europe & Central Asia','High income: OECD',47,20
+'ID','IDN','Indonesia',9453.698228,68.51956098,248037853,'East Asia & Pacific','Lower middle income',-5,120
+'IE','IRL','Ireland',46063.34459,80.89512195,4586897,'Europe & Central Asia','High income: OECD',53,-8
+'IL','ISR','Israel',31993.62384,81.70487805,7910500,'Middle East & North Africa','High income: OECD',31.5,34.75
+'IM','IMN','Isle of Man',,,85779,'Europe & Central Asia','High income',54.23,-4.55
+'IN','IND','India',4921.842308,67.28987805,1263589639,'South Asia','Lower middle income',20,77
+'IQ','IRQ','Iraq',14813.56491,68.94973171,32957622,'Middle East & North Africa','Lower middle income',33,44
+'IR','IRN',"'Iran, Islamic Rep.'",16853.78282,74.79934146,76156975,'Middle East & North Africa','Upper middle income',32,53
+'IS','ISL','Iceland',40278.38704,82.91707317,320716,'Europe & Central Asia','High income: OECD',65,-18
+'IT','ITA','Italy',35899.77997,82.23902439,59539717,'Europe & Central Asia','High income: OECD',42.8333,12.8333
+'JM','JAM','Jamaica',8560.087132,75.29982927,2707805,'Latin America & Caribbean','Upper middle income',18.25,-77.5
+'JO','JOR','Jordan',10432.1751,73.74641463,6994451,'Middle East & North Africa','Upper middle income',31,36
+'JP','JPN','Japan',35735.61672,83.09609756,127561489,'East Asia & Pacific','High income: OECD',36,138
+'KE','KEN','Kenya',2718.986459,60.27278049,42542978,'Sub-Saharan Africa','Low income',1,38
+'KG','KGZ','Kyrgyz Republic',2922.702873,70.00243902,5607200,'Europe & Central Asia','Low income',41,75
+'KH','KHM','Cambodia',2846.657445,67.32887805,14832255,'East Asia & Pacific','Low income',13,105
+'KI','KIR','Kiribati',1705.439184,65.59607317,106620,'East Asia & Pacific','Lower middle income',1.4167,173
+'KM','COM','Comoros',1379.715987,62.58297561,733661,'Sub-Saharan Africa','Low income',-12.1667,44.25
+'KN','KNA','St. Kitts and Nevis',20442.6292,,53650,'Latin America & Caribbean','Upper middle income',17.3333,-62.75
+'KR','KOR',"'Korea, Rep.'",32222.59394,81.21341463,50004441,'East Asia & Pacific','High income: OECD',37,127.5
+'KW','KWT','Kuwait',78492.39685,74.35185366,3419581,'Middle East & North Africa','High income',29.3375,47.6581
+'KY','CYM','Cayman Islands',49902.14655,,57522,'Latin America & Caribbean','High income',19.5,-80.5
+'KZ','KAZ','Kazakhstan',23248.99259,69.61,16791425,'Europe & Central Asia','Upper middle income',48,68
+'LA','LAO','Lao PDR',4580.947397,65.2485122,6473050,'East Asia & Pacific','Lower middle income',18,105
+'LB','LBN','Lebanon',15221.44686,78.90846341,4924257,'Middle East & North Africa','Upper middle income',33.8333,35.8333
+'LC','LCA','St. Lucia',10524.35104,74.77763415,180890,'Latin America & Caribbean','Upper middle income',13.8833,-61.1333
+'LI','LIE','Liechtenstein',,82.38292683,36791,'Europe & Central Asia','High income',47.1667,9.5333
+'LK','LKA','Sri Lanka',10164.35635,74.5312439,20424000,'South Asia','Lower middle income',7,81
+'LR','LBR','Liberia',784.5123573,60.20436585,4190155,'Sub-Saharan Africa','Low income',6.5,-9.5
+'LS','LSO','Lesotho',2427.432836,48.836,2057331,'Sub-Saharan Africa','Lower middle income',-29.5,28.5
+'LT','LTU','Lithuania',24475.05075,73.86341463,2987773,'Europe & Central Asia','Upper middle income',56,24
+'LU','LUX','Luxembourg',90788.28658,81.39268293,530946,'Europe & Central Asia','High income: OECD',49.75,6.1667
+'LV','LVA','Latvia',21122.29821,73.77804878,2034319,'Europe & Central Asia','Upper middle income',57,25
+'LY','LBY','Libya',22975.87562,71.64956098,6283403,'Middle East & North Africa','Upper middle income',25,17
+'MA','MAR','Morocco',6979.899079,73.36465854,32984190,'Middle East & North Africa','Lower middle income',32,-5
+'MC','MCO','Monaco',,,37404,'Europe & Central Asia','High income',43.7333,7.4
+'MD','MDA','Moldova',4226.959189,70.7724878,3559519,'Europe & Central Asia','Lower middle income',47,29
+'ME','MNE','Montenegro',13812.69594,75.70507317,620601,'Europe & Central Asia','Upper middle income',42,19
+'MG','MDG','Madagascar',1399.514325,64.24665854,22293720,'Sub-Saharan Africa','Low income',-20,47
+'MH','MHL','Marshall Islands',3661.799429,,52663,'East Asia & Pacific','Lower middle income',9,168
+'MK','MKD',"'Macedonia, FYR'",11891.64398,75.03126829,2069270,'Europe & Central Asia','Upper middle income',41.8333,22
+'ML','MLI','Mali',2048.073917,57.095,16112333,'Sub-Saharan Africa','Low income',17,-4
+'MM','MMR','Myanmar',,65.42778049,52543841,'East Asia & Pacific','Low income',22,98
+'MN','MNG','Mongolia',9990.038049,68.6135122,2808339,'East Asia & Pacific','Lower middle income',46,105
+'MO','MAC',"'Macao SAR, China'",127938.9187,80.12317073,557763,'East Asia & Pacific','High income',22.1667,113.55
+'MP','MNP','Northern Mariana Islands',,,53314,'East Asia & Pacific','High income',15.2,145.75
+'MR','MRT','Mauritania',3575.986354,62.56017073,3777067,'Sub-Saharan Africa','Lower middle income',20,-12
+'MT','MLT','Malta',28355.70551,80.74634146,419455,'Middle East & North Africa','High income',35.8333,14.5833
+'MU','MUS','Mauritius',16961.11095,73.86341463,1255882,'Sub-Saharan Africa','Upper middle income',-20.2833,57.55
+'MV','MDV','Maldives',11373.46296,76.46234146,385000,'South Asia','Upper middle income',3.25,73
+'MW','MWI','Malawi',1085.679,60.05029268,15700436,'Sub-Saharan Africa','Low income',-13.5,34
+'MX','MEX','Mexico',16289.56528,76.35409756,122070963,'Latin America & Caribbean','Upper middle income',23,-102
+'MY','MYS','Malaysia',23124.66048,74.42331707,29021940,'East Asia & Pacific','Upper middle income',2.5,112.5
+'MZ','MOZ','Mozambique',1010.221252,54.21212195,25732928,'Sub-Saharan Africa','Low income',-18.25,35
+'NA','NAM','Namibia',9021.895763,63.88114634,2291645,'Sub-Saharan Africa','Upper middle income',-22,17
+'NC','NCL','New Caledonia',,77.12195122,259000,'East Asia & Pacific','High income',-21.5,165.5
+'NE','NER','Niger',883.2513773,60.07253659,17635782,'Sub-Saharan Africa','Low income',16,8
+'NG','NGA','Nigeria',5407.323956,52.105,168240403,'Sub-Saharan Africa','Lower middle income',10,8
+'NI','NIC','Nicaragua',4488.17451,74.21246341,5877034,'Latin America & Caribbean','Lower middle income',13,-85
+'NL','NLD','Netherlands',46448.8848,81.10487805,16754962,'Europe & Central Asia','High income: OECD',52.5,5.75
+'NO','NOR','Norway',65399.83608,81.45121951,5018573,'Europe & Central Asia','High income: OECD',62,10
+'NP','NPL','Nepal',2153.736493,68.82331707,27500515,'South Asia','Low income',28,84
+'NZ','NZL','New Zealand',33065.51124,81.15609756,4408100,'East Asia & Pacific','High income: OECD',-41,174
+'OM','OMN','Oman',41944.99918,76.58956098,3545192,'Middle East & North Africa','High income',21,57
+'PA','PAN','Panama',18663.16818,77.23704878,3743761,'Latin America & Caribbean','Upper middle income',9,-80
+'PE','PER','Peru',11051.25377,74.05765854,30158768,'Latin America & Caribbean','Upper middle income',-10,-76
+'PF','PYF','French Polynesia',,76.12702439,273775,'East Asia & Pacific','High income',-15,-140
+'PG','PNG','Papua New Guinea',2525.962109,62.29990244,7154870,'East Asia & Pacific','Lower middle income',-6,147
+'PH','PHL','Philippines',6153.070449,68.00707317,96017322,'East Asia & Pacific','Lower middle income',13,122
+'PK','PAK','Pakistan',4460.923073,65.71687805,177392252,'South Asia','Lower middle income',30,70
+'PL','POL','Poland',23598.55928,76.74634146,38063164,'Europe & Central Asia','High income: OECD',52,20
+'PR','PRI','Puerto Rico',34272.20442,78.92541463,3634487,'Latin America & Caribbean','High income',18.25,-66.5
+'PS','PSE','West Bank and Gaza',4931.002184,72.55885366,4046901,'Middle East & North Africa','Lower middle income',32,35.25
+'PT','PRT','Portugal',27125.15443,80.37317073,10514844,'Europe & Central Asia','High income: OECD',39.5,-8
+'PW','PLW','Palau',13510.03458,,20756,'East Asia & Pacific','Upper middle income',7.5,134.5
+'PY','PRY','Paraguay',7447.174726,72.654,6379162,'Latin America & Caribbean','Lower middle income',-23,-58
+'QA','QAT','Qatar',135421.724,78.22765854,2015624,'Middle East & North Africa','High income',25.5,51.25
+'RO','ROU','Romania',18910.27827,74.41219512,20058035,'Europe & Central Asia','Upper middle income',46,25
+'RS','SRB','Serbia',13000.07329,74.83658537,7199077,'Europe & Central Asia','Upper middle income',44,21
+'RU','RUS','Russian Federation',25316.63579,70.36585366,143201676,'Europe & Central Asia','Upper middle income',60,100
+'RW','RWA','Rwanda',1510.67811,62.79936585,10817350,'Sub-Saharan Africa','Low income',-2,30
+'SA','SAU','Saudi Arabia',49729.51749,74.01602439,29496047,'Middle East & North Africa','High income',25,45
+'SB','SLB','Solomon Islands',2062.454263,67.50658537,549162,'East Asia & Pacific','Lower middle income',-8,159
+'SC','SYC','Seychelles',24251.52397,74.22682927,88303,'Sub-Saharan Africa','Upper middle income',-4.5833,55.6667
+'SD','SDN','Sudan',3873.597398,62.83219512,37712420,'Sub-Saharan Africa','Lower middle income',15,30
+'SE','SWE','Sweden',44433.72669,81.70487805,9519374,'Europe & Central Asia','High income: OECD',62,15
+'SG','SGP','Singapore',77173.2383,81.99512195,5312437,'East Asia & Pacific','High income',1.3667,103.8
+'SI','SVN','Slovenia',28481.75131,80.12439024,2057159,'Europe & Central Asia','High income: OECD',46,15
+'SK','SVK','Slovak Republic',26091.27983,76.1097561,5407579,'Europe & Central Asia','High income: OECD',48.6667,19.5
+'SL','SLE','Sierra Leone',1620.89897,49.74909756,6043157,'Sub-Saharan Africa','Low income',8.5,-11.5
+'SM','SMR','San Marino',,,31172,'Europe & Central Asia','High income',43.7667,12.4167
+'SN','SEN','Senegal',2225.296028,65.31887805,13780108,'Sub-Saharan Africa','Lower middle income',14,-14
+'SO','SOM','Somalia',,54.6902439,10033630,'Sub-Saharan Africa','Low income',10,49
+'SR','SUR','Suriname',15718.13299,70.80631707,528535,'Latin America & Caribbean','Upper middle income',4,-56
+'ST','STP','Sao Tome and Principe',2959.889691,66.13390244,178484,'Sub-Saharan Africa','Lower middle income',1,7
+'SV','SLV','El Salvador',7859.86073,72.23185366,6072233,'Latin America & Caribbean','Lower middle income',13.8333,-88.9167
+'SY','SYR','Syrian Arab Republic',,70.78590244,19978756,'Middle East & North Africa','Lower middle income',35,38
+'SZ','SWZ','Swaziland',7870.644742,48.85063415,1231694,'Sub-Saharan Africa','Lower middle income',-26.5,31.5
+'TC','TCA','Turks and Caicos Islands',,,32430,'Latin America & Caribbean','High income',21.75,-71.5833
+'TD','TCD','Chad',1997.410939,50.78139024,12715465,'Sub-Saharan Africa','Low income',15,19
+'TG','TGO','Togo',1304.187972,58.55385366,6745581,'Sub-Saharan Africa','Low income',8,1.1667
+'TH','THA','Thailand',14853.32968,74.07190244,67164130,'East Asia & Pacific','Upper middle income',15,100
+'TJ','TJK','Tajikistan',2386.327474,69.16697561,7930929,'Europe & Central Asia','Low income',39,71
+'TL','TLS','Timor-Leste',2075.984742,67.80014634,1148958,'East Asia & Pacific','Lower middle income',-8.55,125.5167
+'TM','TKM','Turkmenistan',12689.34383,65.31158537,5172941,'Europe & Central Asia','Lower middle income',40,60
+'TN','TUN','Tunisia',10672.5676,73.99512195,10777500,'Middle East & North Africa','Upper middle income',34,9
+'TO','TON','Tonga',5132.805233,72.488,104769,'East Asia & Pacific','Lower middle income',-20,-175
+'TR','TUR','Turkey',18449.25002,74.63680488,74849187,'Europe & Central Asia','Upper middle income',39,35
+'TT','TTO','Trinidad and Tobago',30571.90635,70.15139024,1341579,'Latin America & Caribbean','High income',11,-61
+'TV','TUV','Tuvalu',3552.926553,,9860,'East Asia & Pacific','Lower middle income',-8,178
+'TZ','TZA','Tanzania',2289.261876,63.52090244,48645709,'Sub-Saharan Africa','Low income',-6,35
+'UA','UKR','Ukraine',8472.201129,70.94414634,45593300,'Europe & Central Asia','Lower middle income',49,32
+'UG','UGA','Uganda',1696.494424,57.10019512,35400620,'Sub-Saharan Africa','Low income',1,32
+'US','USA','United States',51433.04709,78.74146341,314102623,'North America','High income: OECD',38,-97
+'UY','URY','Uruguay',18817.87492,76.68839024,3396753,'Latin America & Caribbean','Upper middle income',-33,-56
+'UZ','UZB','Uzbekistan',4791.189289,68.10197561,29774500,'Europe & Central Asia','Lower middle income',41,64
+'VC','VCT','St. Vincent and the Grenadines',10192.92981,72.67185366,109334,'Latin America & Caribbean','Upper middle income',13.25,-61.2
+'VE','VEN',"'Venezuela, RB'",18027.89012,73.92573171,29854238,'Latin America & Caribbean','Upper middle income',8,-66
+'VI','VIR','Virgin Islands (U.S.)',,79.47317073,105275,'Latin America & Caribbean','High income',18.3333,-64.8333
+'VN','VNM','Vietnam',5000.764854,75.31939024,88809200,'East Asia & Pacific','Lower middle income',16,106
+'VU','VUT','Vanuatu',2952.413431,71.40817073,247498,'East Asia & Pacific','Lower middle income',-16,167
+'WS','WSM','Samoa',5757.17964,72.98004878,188901,'East Asia & Pacific','Lower middle income',-13.5833,-172.3333
+'YE','YEM',"'Yemen, Rep.'",3675.563373,63.32729268,24882792,'Middle East & North Africa','Lower middle income',15,48
+'ZA','ZAF','South Africa',12598.94312,56.09831707,52356380.68,'Sub-Saharan Africa','Upper middle income',-29,24
+'ZM','ZMB','Zambia',3552.200248,58.36331707,14786581,'Sub-Saharan Africa','Lower middle income',-15,30
+'ZW','ZWE','Zimbabwe',1679.125594,53.64307317,14565482,'Sub-Saharan Africa','Low income',-20,30
