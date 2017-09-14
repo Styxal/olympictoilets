@@ -1,0 +1,17 @@
+{
+    "name": "valentec/olympicdata",
+    "authors": [
+        {
+            "name": "Carmen Valente",
+            "email": "carmenvalente@rentalcars.com"
+        }
+    ],
+    "require": {
+        "nette/database": "^2.4",
+        "robmorgan/phinx": "^0.9.1",
+        "kint-php/kint": "^2.2"
+    },
+    "autoload": {
+
+    }
+}
