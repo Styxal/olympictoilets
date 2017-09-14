@@ -1,6 +1,6 @@
 #drop schema olympics;
 
-create schema olympics;
+#create schema olympics;
 
 create table olympics.region (
 	region_id integer,

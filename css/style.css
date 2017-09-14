@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    width: 100%;
+    background-color: #feeafa;
+    font-size: 1rem;
+    padding: 12px;
+    position: relative;
+    z-index: 2;
+}
+
+nav {
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
+    background-color: #feeafa;
+}
+
+nav .tabs {
+    max-width: 970px;
+    margin: 0 auto;
+    padding: 8px 0;
+}
+
+a[tab] {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+    padding-top: 24px;
+}
+
+.panel {
+    width: 100%;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
+    margin-bottom: 24px;
+}
+
+.panel .panel-header {
+    background-color: #feeafa;
+}
+
+.panel .panel-header,
+.panel .panel-body {
+    padding: 12px
+}
+table {
+    width: 100%;
+}
+thead {
+    background-color: #feeafa;
+}
+table tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+table th {
+    padding: 4px;
+}
+
+#average select {
+    border: 0;
+    border-radius: 0;
+    background: #ffffff;
+    border-bottom: 2px solid #000000;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: 1rem;
+}
+
+#average input[type="submit"] {
+    border: 0;
+    border-radius: 0;
+    background-color: #ffffff;
+    border-bottom: 2px solid #000000;
+    padding: 1.2px 8px;
+
+}
